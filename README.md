@@ -1,6 +1,6 @@
 ### Hi, I'm Max - aka mroptimax
 
-## CS-Student trying some stuff
+## Doing some Web-Dev and other stuff
 
 ### Connect with me:
 
