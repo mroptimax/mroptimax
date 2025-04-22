@@ -4,9 +4,7 @@ Hi 👋 My name is Max
 *   🌍  I'm based in Germany
 *   🚀  I'm currently working on [Quiz Max App](http://https://play.google.com/store/apps/details?id=mroptimax.quiz.app)
 
-<a href="https://www.twitter.com/mroptimax1" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/mroptimax1?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
-                /></a><a href="https://www.github.com/mroptimax" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/mroptimax" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/mroptimax?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a><a href="https://www.twitch.tv/mroptimax" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/mroptimax?logo=twitchsx&style=for-the-badge&color=14b8a6&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
@@ -26,7 +24,7 @@ Hi 👋 My name is Max
 
 ### Socials
                   
-<p align="left"> <a href="https://www.github.com/mroptimax" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15610868/max" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mroptimax" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/max-petershans" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mroptimax1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/mroptimax" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/mroptimax" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15610868/max" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mroptimax" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/max-petershans" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/mroptimax" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
